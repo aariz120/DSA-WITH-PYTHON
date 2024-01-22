@@ -1,1 +1,1 @@
-print("welcome to the DSA series ")
+print("welcone to the dsa project")
